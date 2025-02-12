@@ -188,6 +188,7 @@ Ferramentas e Tecnologias
 - 
 
 ### Links de Interesses
+[Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiOWI1Mzk0NTUtMmY5ZC00NjM2LWE2ZTMtMDBkYjQ3NTQyMDY5IiwidCI6IjZkMGI5OTE3LWQ4N2YtNDY2NC1hZDBkLWRjOTE4MjU4YmFjMCJ9)
 
 ### Processamento e análises
 
